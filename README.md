@@ -33,7 +33,7 @@ CentOS7自带的有python环境， 但是版本是2.7
 #将原来的链接备份
 # mv /usr/bin/python /usr/bin/python.bak
 #添加python3的软链接
-# ln -s /usr/local/python3/bin/python3. /usr/bin/python
+# ln -s /usr/local/python3/bin/python3.9 /usr/bin/python
 #测试是否安装成功了
 # python -V
 ```
